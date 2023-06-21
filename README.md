@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maximly
 - 👀 I’m interested in system software development (storage, network, security)
-- 🌱 I’m currently learning MacOS kernel development
+- 🌱 I’m currently working on cross-platform system development library **vsys** (C++/Cmake)
 - 💞️ I’m looking to collaborate on Win/Mac/Linux/Mobile projects in C/C++ (low level preferred)
 
 <!---
